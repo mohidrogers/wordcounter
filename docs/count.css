@@ -1,0 +1,54 @@
+body{
+    background-color: #4c8bf5;
+}
+#head{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#spark{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+
+#b1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width: 20%;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+#words{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#char{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+#out{
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+}
+#out1{
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+}
